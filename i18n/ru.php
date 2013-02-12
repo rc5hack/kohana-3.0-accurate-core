@@ -2,6 +2,6 @@
 
 return array
 (
-    'French' => 'Русский',
-    'Hello, world!' => 'Привет, мир!',
+	'Russian' => 'Русский',
+	'Hello, world!' => 'Привет, мир!',
 );
